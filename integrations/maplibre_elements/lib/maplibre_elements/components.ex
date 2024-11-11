@@ -1,4 +1,4 @@
-defmodule FireWebc.Components.MapLibre do
+defmodule MaplibreElements.Components do
   @moduledoc """
   `Phoenix.Component` which makes a `ml-map` web component compatible
   with `Phoenix.LiveView`.
